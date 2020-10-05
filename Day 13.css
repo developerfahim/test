@@ -1,0 +1,66 @@
+div{
+    height: 600px;
+    width: 440px;
+    margin: 20px auto;
+    background-color: rgb(236, 219, 186);
+}
+h1{
+    font-family: 'Sansita Swashed', cursive;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 30px;
+    color: blue;
+}
+h6{
+    text-align: center;
+    font-size: 15px;
+    margin-top: -5px;
+    font-style: italic;
+    color: blueviolet;
+    
+}
+input{
+    margin-left: 40px;
+    display: inline-block;
+    height: 30px;
+    width: 350px;
+    border: 1px solid blue;
+    font-size: 18px;
+
+}
+strong{
+    margin-left: 40px;
+    display: block;
+    font-size: 22px;
+    font-style: italic;
+    color: green;
+}
+select{
+    margin-left: 40px;
+    display: inline-block;
+    height: 30px;
+    width: 350px;
+    border: 1px solid blue;
+    font-size: 18px;
+}
+.submit{
+    margin-left: 40px;
+    display: inline-block;
+    height: 30px;
+    width: 350px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border: 0 solid rgb(236, 219, 186);
+}
+small{
+    margin-top: 10px;
+    display: inline-block;
+    width: 440px;
+    background-color: rgb(23, 23, 43);
+    color: white;
+    display: inline-block;
+    text-align: center;
+    padding: 10px 0;
+}
